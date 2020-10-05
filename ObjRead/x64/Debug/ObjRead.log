@@ -1,0 +1,18 @@
+﻿  ObjView.cpp
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(35,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(69,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(78,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(86,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(97,14): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(140,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(141,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(142,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\ObjView.cpp(145,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\main.cpp(47,22): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\main.cpp(48,15): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\main.cpp(49,15): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\main.cpp(108,25): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Opengl講義\ObjRead\ObjRead\main.cpp(114,46): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+LINK : fatal error LNK1168: ファイル C:\Users\hiro\Desktop\Opengl講義\ObjRead\x64\Debug\ObjRead.exe を開いて書き込むことができません。
